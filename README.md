@@ -8,4 +8,5 @@ The project aims to achieve high accuracy in distinguishing between legitimate a
 The repository contains code, dataset, and documentation.
 
 Link to dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-It's also uploaded with the notebook.
+
+Uploaded alongside the notebook.
